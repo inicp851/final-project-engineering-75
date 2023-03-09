@@ -13,5 +13,7 @@ Frontend ```/client-side```
 | FE2213347 | Muhammad Reza Putra Gumilar |
 | FE2200038	 | Alya Awalia Azzahra |
 | FE2200379 | Yanda Agil Marfani |
-| FE2086674 | Lesy Nugraha |# final-project-engineering-75
+| FE2086674 | Lesy Nugraha |
+
+# final-project-engineering-75
 # final-project-engineering-75
